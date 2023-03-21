@@ -11,3 +11,4 @@ print(string_2.split( / ))
 # [ sample , string 2 ]
 
 print("if")
+print("release")
