@@ -9,3 +9,4 @@ print(string_1.split())
 # defining separator as /
 print(string_2.split( / ))
 # [ sample , string 2 ]
+
