@@ -10,3 +10,4 @@ print(string_1.split())
 print(string_2.split( / ))
 # [ sample , string 2 ]
 
+print("if")
