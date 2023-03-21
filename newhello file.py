@@ -1,6 +1,7 @@
 print("123")
 print("hello")
 
+
 public class TwoSum {
     public static void main(String[] args) {
         //初始化
