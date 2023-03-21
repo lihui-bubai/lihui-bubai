@@ -1,5 +1,7 @@
 print("hello,asdsadadsadaweewwewdwdewdwdwd")
-print("hello,new")
+print("hello,new1")
+print("hello,new2")
+print("hello,new3")
 
 public class TwoSum {
     public static void main(String[] args) {
