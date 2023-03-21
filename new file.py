@@ -1,5 +1,6 @@
 print("hello,asdsadadsadaweewwewdwdewdwdwd")
 print("hello,new")
+
 public class TwoSum {
     public static void main(String[] args) {
         //初始化
