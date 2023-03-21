@@ -6,7 +6,6 @@ string_2 = "sample/ string 2"
 print(string_1.split())
 # [ My , name , is , Chaitanya , Baweja ]
 
-
 # defining separator as /
 print(string_2.split( / ))
 # [ sample , string 2 ]
